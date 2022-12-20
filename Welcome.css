@@ -1,0 +1,20 @@
+h1
+{
+    height: 350px;
+    width: 350px;
+    border:ridge red 20px;
+    background-color: aqua;
+    background-image: url(heart1.jpg);
+    background-repeat: no-repeat;
+    background-position:center;
+    
+}
+body
+{
+    background-color: lightcoral;
+}
+h1:hover
+{
+    background-color: aqua;
+    background-image: url(heart3.jpg)
+}

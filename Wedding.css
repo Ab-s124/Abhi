@@ -1,0 +1,35 @@
+body
+{
+    background-image:url(image.jpg);
+    background-size: cover;
+
+}
+h1
+{
+    font-family:fantasy;
+    text-align: center;
+    border: solid;
+    border-color:red;
+    background-color: yellow;
+    font-size: 70px;
+}
+a
+{
+    font-size: 40px;
+    border: solid;
+    background-color:moccasin;
+}
+img
+{
+    text-align: center;
+    height: 700px;
+    width: 500px;
+    position: absolute;
+    right:500px;
+    top: 140px;
+    
+}
+MyCollections
+{
+    text-align: end;
+}

@@ -1,0 +1,36 @@
+body
+{
+    background-image:url(imagesc.jpg);
+    background-size: cover;
+    text-align: center;
+    font-size: 40px;
+        
+}
+Name
+{
+    font-size: 40px;
+}
+Email
+{
+    text-align: center;
+    font-size: 40px;
+    
+}
+input
+{
+    box-sizing: border-box;
+    height: 30px;
+    width: 200px;
+    box-sizing: border-box 20px;
+}
+label
+{
+    box-sizing:border-box 30px;
+}
+h4
+{
+    text-decoration-color: black;
+}
+    
+
+    

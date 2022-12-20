@@ -1,0 +1,27 @@
+body
+{
+    background-color:rgb(30,20,50);
+    background-size: cover;
+}
+
+
+
+
+
+a:link
+{
+      color:forestgreen;
+            font-size: 30px;
+        }
+        a:visited
+        {
+            color: blue;
+        }
+        a:active
+        {
+            border: 30px firebrick;
+            border-style: groove;
+            border-radius: 20px;
+        }
+    
+    

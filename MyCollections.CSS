@@ -1,0 +1,21 @@
+body
+{
+    background-color:rgb(60,20,20);
+}
+img
+{
+  float:right; 500px;
+    height: 600px;
+    width: 700px;
+    
+}
+a
+{
+    font-size: 30px;
+    text-decoration: overline;
+}
+h1
+{
+    text-align: center;
+    font-size: 40px;
+}
